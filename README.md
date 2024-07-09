@@ -1,1 +1,1 @@
-# Neural Radince Fields Project (NeRF)
+# Neural Radiance Fields Project (NeRF)
